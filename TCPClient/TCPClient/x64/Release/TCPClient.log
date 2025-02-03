@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Generating code
+  161 of 313 functions (51.4%) were compiled, the rest were copied from previous compilation.
+    44 functions were new in current compilation
+    32 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TCPClient.vcxproj -> C:\Users\c0002270\Desktop\TCPClient\x64\Release\TCPClient.exe
